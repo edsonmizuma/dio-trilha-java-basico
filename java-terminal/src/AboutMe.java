@@ -18,6 +18,8 @@ public class AboutMe {
         int idade = scanner.nextInt();
 
         System.out.println("Digite sua altura");
+        double altura = scanner.nextDouble();
+
     }
 
 } // (main
